@@ -1,0 +1,13 @@
+/*!
+ * This is the common CSS for application wide
+ */
+ 
+.isotope-item{
+	float: left;
+	margin: 10px;
+	background-color: #ccc;
+	padding: 45px;
+	transition-property: transform, opacity;
+	transition-duration: 0.8s;
+	width: 30%;
+}
